@@ -1211,7 +1211,8 @@ let s:zen_settings = {
 \                    ."        <script src=\"../../../core/nova.ui.js\"></script>\n"
 \                    ."        <script src=\"../nova.slide.js\"></script>\n"
 \                    ."    </body>\n"
-\                    ."</html>"
+\                    ."</html>",
+\            'comment:zone': "/***********************************************************/\n"
 \        },
 \        'default_attributes': {
 \            'a': {'href': ''},
