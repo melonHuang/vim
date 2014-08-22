@@ -50,3 +50,5 @@ filetype plugin indent on
 let g:vim_markdown_folding_disabled=1
 
 set mouse=a
+
+set pastetoggle=<F10>           " pastetoggle (sane indentation on pastes)
